@@ -5,4 +5,4 @@
 Реализуйте вывод на экран информации о пользователе.  
 
 Подытог: вот такенный майндфак на выходе
->![](Addition task/Program_output.png)
+>![](Addition%20task/Program_output.png)
